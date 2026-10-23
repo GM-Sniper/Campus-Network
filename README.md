@@ -6,8 +6,6 @@
 
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Cisco IOS](https://img.shields.io/badge/Cisco%20IOS-15.1-049FD9?style=for-the-badge&logo=cisco&logoColor=white)
-![Course](https://img.shields.io/badge/CSCE%203423-Intro%20to%20Cybersecurity-8A2BE2?style=for-the-badge)
-![Term](https://img.shields.io/badge/Fall-2025-555?style=for-the-badge)
 
 <img src="docs/screenshots/topology-full.png" alt="Full logical topology of the secure campus network" width="100%">
 

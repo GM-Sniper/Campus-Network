@@ -19,25 +19,28 @@
 
 ## 📑 Table of Contents
 
-- [Overview](#-overview)
-- [Highlights](#-highlights)
-- [Network Architecture](#-network-architecture)
-- [VLAN & IP Addressing Plan](#-vlan--ip-addressing-plan)
-- [Core Services](#-core-services)
-- [Security Implementation](#-security-implementation)
-  - [Layer 2 Security](#1-layer-2-security)
-  - [Inter-VLAN Routing & DHCP Relay](#2-inter-vlan-routing--dhcp-relay)
-  - [Role-Based Access Control (ACLs)](#3-role-based-access-control-acls)
-  - [Secure Management: SSH, AAA, SNMP, Syslog](#4-secure-management-ssh-aaa-snmp-syslog)
-  - [Wireless (WLC + Lightweight APs)](#5-wireless-wlc--lightweight-aps)
-  - [Site-to-Site IPsec VPN](#6-site-to-site-ipsec-vpn)
-  - [Email Service](#7-email-service)
-- [Verification Results](#-verification-results)
-- [Risk Assessment & Security Policies](#-risk-assessment--security-policies)
-- [Repository Structure](#-repository-structure)
-- [Getting Started](#-getting-started)
-- [Future Improvements](#-future-improvements)
-- [Team](#-team)
+- [🛡️ Secure Campus Network: Design \& Implementation](#️-secure-campus-network-design--implementation)
+  - [📑 Table of Contents](#-table-of-contents)
+  - [🧭 Overview](#-overview)
+  - [✨ Highlights](#-highlights)
+  - [🏗️ Network Architecture](#️-network-architecture)
+    - [Building-level topologies](#building-level-topologies)
+  - [🗺️ VLAN \& IP Addressing Plan](#️-vlan--ip-addressing-plan)
+  - [🧩 Core Services](#-core-services)
+  - [🔒 Security Implementation](#-security-implementation)
+    - [1. Layer 2 Security](#1-layer-2-security)
+    - [2. Inter-VLAN Routing \& DHCP Relay](#2-inter-vlan-routing--dhcp-relay)
+    - [3. Role-Based Access Control (ACLs)](#3-role-based-access-control-acls)
+    - [4. Secure Management: SSH, AAA, SNMP, Syslog](#4-secure-management-ssh-aaa-snmp-syslog)
+    - [5. Wireless (WLC + Lightweight APs)](#5-wireless-wlc--lightweight-aps)
+    - [6. Site-to-Site IPsec VPN](#6-site-to-site-ipsec-vpn)
+    - [7. Email Service](#7-email-service)
+  - [✅ Verification Results](#-verification-results)
+  - [⚠️ Risk Assessment \& Security Policies](#️-risk-assessment--security-policies)
+  - [📁 Repository Structure](#-repository-structure)
+  - [🚀 Getting Started](#-getting-started)
+  - [🔭 Future Improvements](#-future-improvements)
+  - [👥 Team](#-team)
 
 ---
 
@@ -466,8 +469,6 @@ The external email server hosts the `campus.edu` domain with **SMTP** and **POP3
 | **Adham Gohar** |
 
 <div align="center">
-
-**CSCE 3423 – Introduction to Cybersecurity · Fall 2025**
 
 <sub>Built with Cisco Packet Tracer · Academic term project</sub>
 
